@@ -1,5 +1,10 @@
-## Hi there 👋
+## About this github account 👋
 
+NAME: ABDUL HAYEE
+ROLL NO: 2K24/CSE/4
+PROGRAM: BS Computer Science
+
+- This ID is being used to submit and perform academic work and its assignments on here.
 <!--
 **2K24CSE4/2K24CSE4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
