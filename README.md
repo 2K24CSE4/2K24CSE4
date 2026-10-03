@@ -1,8 +1,8 @@
 ## About this github account 👋
 
-NAME: ABDUL HAYEE
-ROLL NO: 2K24/CSE/4
-PROGRAM: BS Computer Science
+- NAME: ABDUL HAYEE
+- ROLL NO: 2K24/CSE/4
+- PROGRAM: BS Computer Science
 
 - This ID is being used to submit and perform academic work and its assignments on here.
 <!--
